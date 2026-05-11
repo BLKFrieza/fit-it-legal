@@ -10,8 +10,6 @@ Email support:
 
 support@fit-it.app
 
-## Common Help Topics
-
 ## Credits
 
 Fit-it uses consumable credit packs for eligible paid features.
@@ -73,3 +71,9 @@ Check iOS permission settings:
 ```text
 iOS Settings → Fit-it → Photos
 iOS Settings → Fit-it → Camera
+```
+
+## Legal Documents
+
+- [Privacy Policy](privacy)
+- [Terms of Use](terms)
