@@ -19,7 +19,6 @@ Fit-it includes two primary modes:
 
 Fit-it does not intentionally sell user data.
 
-Fit-it does not currently use advertising services or display ads.
 
 ## 2. Information We May Collect or Process
 
@@ -81,6 +80,23 @@ Fit-it may use third-party services including:
 - Google cloud services
 
 These providers may process information as necessary to support app functionality.
+
+## Advertising and Google AdMob
+
+Fit-it may use the Google AdMob (Google Mobile Ads) SDK to show limited advertisements. Advertisements are only eligible to be displayed after the successful completion of a Regular Mode outfit board. Fit-it does not show ads during onboarding, garment import or capture, bulk upload, editing, Premium Mode generation, paywall or purchase flows, account screens, legal/support screens, app launch, or failed generation states.
+
+When advertising is active, the Google Mobile Ads SDK may process certain data, such as your IP address, IP-derived approximate or coarse location, device identifiers, app performance and diagnostics data, advertising data, and information about your interactions with the app and ads.
+
+This data processing may be used for purposes including ad delivery, ad measurement, fraud prevention, diagnostics, analytics, and performance.
+
+In this release, Fit-it does not request App Tracking Transparency (ATT) permission and does not access the device Advertising Identifier (IDFA) for personalized advertising.
+
+Depending on your region, you may see a consent or privacy-choice prompt provided through Google’s User Messaging Platform (UMP). Your selections in this prompt may affect ad personalization or how ads are served to you.
+
+You can review how Google uses information from apps that use its services by visiting the Google Privacy Policy and Google’s advertising privacy controls:
+
+- https://policies.google.com/privacy
+- https://policies.google.com/technologies/ads
 
 ## 8. Data Sharing
 
