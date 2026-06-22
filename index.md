@@ -2,7 +2,7 @@
 
 Effective Date: May 8, 2026
 
-Contact: support@fit-it.app
+Contact: fititapp.support@gmail.com
 
 Welcome to the public legal and support page for **Fit-it / FitIt Outfit Studio**, an iOS app for creating clothing and outfit mockups.
 

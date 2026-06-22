@@ -2,7 +2,7 @@
 
 Effective Date: May 8, 2026
 
-Contact: support@fit-it.app
+Contact: fititapp.support@gmail.com
 
 This Privacy Policy explains how **Fit-it / FitIt Outfit Studio** handles information when you use the iOS app.
 
@@ -127,7 +127,7 @@ We do not knowingly collect personal information from children under 13.
 
 If you believe a child has provided personal information through the app, contact:
 
-support@fit-it.app
+fititapp.support@gmail.com
 
 ## 11. User Choices
 
@@ -156,4 +156,4 @@ If changes are made, the updated effective date will appear at the top of this p
 
 For privacy questions or support requests, contact:
 
-support@fit-it.app
+fititapp.support@gmail.com

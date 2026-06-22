@@ -2,13 +2,13 @@
 
 Effective Date: May 8, 2026
 
-Contact: support@fit-it.app
+Contact: fititapp.support@gmail.com
 
 Need help with **Fit-it / FitIt Outfit Studio**?
 
 Email support:
 
-support@fit-it.app
+fititapp.support@gmail.com
 
 ## Credits
 

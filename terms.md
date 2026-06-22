@@ -2,7 +2,7 @@
 
 Effective Date: May 8, 2026
 
-Contact: support@fit-it.app
+Contact: fititapp.support@gmail.com
 
 These Terms of Use apply to your use of **Fit-it / FitIt Outfit Studio**.
 
@@ -119,4 +119,4 @@ If changes are made, the updated effective date will appear at the top of this p
 
 For support or questions regarding these Terms, contact:
 
-support@fit-it.app
+fititapp.support@gmail.com
